@@ -1,0 +1,6 @@
+resolver: lts-2.22
+packages:
+- '.'
+extra-deps:
+- path-0.5.8
+- directory-1.2.6.3
